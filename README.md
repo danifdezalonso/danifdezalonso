@@ -21,4 +21,7 @@ I'm passionate about technology and willing to learn and try new things. I enjoy
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danifdezalonso)](https://github.com/danifdezalonso/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danifdezalonso&layout=compact)](https://github.com/danifdezalonso/github-readme-stats)
+
+
 
