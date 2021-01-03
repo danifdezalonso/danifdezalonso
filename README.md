@@ -1,10 +1,8 @@
-### Hey buddy, I'm Dani  👋
-
-(https://danifdez.com)
-
-## I'm a multidisciplinary and proactive UX/UI Designer, FE developer and teacher from Barcelona.
-
+### Hey buddy 👋, 
+I'm Dani, a multidisciplinary and proactive UX/UI Designer, FE developer and teacher from Barcelona.
 I'm passionate about technology and willing to learn and try new things. I enjoy creating user-centric, empathetic and human experiences with a focus on detail, quality and results.
+
+Check more about me at: https://danifdez.com
 
 ### Languages and Tools:
 
@@ -21,7 +19,7 @@ I'm passionate about technology and willing to learn and try new things. I enjoy
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danifdezalonso)](https://github.com/danifdezalonso/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danifdezalonso&layout=compact)](https://github.com/danifdezalonso/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danifdezalonso&layout=compact)]
 
 
 
