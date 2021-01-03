@@ -1,4 +1,4 @@
-### Hey buddy 👋  I'm Dani, a multidisciplinary and proactive UX/UI Designer, FE developer and teacher from Barcelona. I'm passionate about technology and willing to learn and try new things. I enjoy creating user-centric, empathetic and human experiences with a focus on detail, quality and results. Check more about me at: https://danifdez.com
+# Hey buddy 👋  I'm Dani, a multidisciplinary and proactive UX/UI Designer, FE developer and teacher from Barcelona. I'm passionate about technology and willing to learn and try new things. I enjoy creating user-centric, empathetic and human experiences with a focus on detail, quality and results. Check more about me at: https://danifdez.com
 
 
 ## Languages:
